@@ -1,0 +1,14 @@
+body {  
+    background-color: pink;
+}
+
+h1{
+    color: violet;
+     font-size: 50px;
+     text-align: center;
+}
+
+p{  
+    color:hwb(130 60% 2% / 0.74);
+    font-size 30px; 
+    text-align: justify;
