@@ -5,8 +5,8 @@ body {
  }
 
  header{
-    background-color:aliceblue;
-    border-bottom:2px violet;
+    background-color:violet;
+    border-bottom:2px aliceblue;
 }
       
 h1{
@@ -46,7 +46,7 @@ p{
      height: 300px;
      margin: 10px;
      padding: 19px; 
-     border: 0.5rem solid #C71585;
+     border: 0.rem solid #C71585;
      border-radius: 24px;
 }
 
