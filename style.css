@@ -4,8 +4,8 @@ body {
     font-family: sans-serif;
  }
  header{
-    background-color:violet;
-    border-bottom:2px aliceblue;
+    background-color: aliceblue;
+    border-bottom:2px violet;
 }
       
 h1{
