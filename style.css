@@ -1,12 +1,14 @@
-body {  
+body { 
+    background-image: linear-gradient(pink,hotpink,deeppink); 
    font-family: sans-serif;
  }
+
  header{
     background-color: aliceblue;
     border-bottom: 2px solid aliceblue;
 }
-    background-image: linear-gradient(pink,hotpink,deeppink);
-}
+   
+
     
 h1{
     color: violet;
@@ -18,6 +20,7 @@ h2{
      font-size: 50px;
      text-align: center;
 }
+
 h3{
     color: violet;
      font-size: 50px;
