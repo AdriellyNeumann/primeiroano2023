@@ -1,7 +1,9 @@
 body { 
     background-image: linear-gradient(pink,hotpink,deeppink); 
-   font-family: sans-serif;
+   
+    font-family: sans-serif;
  }
+
  header{
     background-color:aliceblue;
     border-bottom:2px violet;
