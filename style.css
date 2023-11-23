@@ -1,10 +1,24 @@
 body {  
 
     font-family: sans-serif;
+
     background-image: linear-gradient(pink,hotpink,deeppink);
 }
-
+    header{
+        background-color: aliceblue;
+        border-bottom: 2px solid aliceblue;
+    }
 h1{
+    color: violet;
+     font-size: 50px;
+     text-align: center;
+}
+h2{
+    color: violet;
+     font-size: 50px;
+     text-align: center;
+}
+h3{
     color: violet;
      font-size: 50px;
      text-align: center;
